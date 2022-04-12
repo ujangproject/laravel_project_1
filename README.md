@@ -8,7 +8,7 @@
 </p>
 
 ## CRUD SEKOLAH SEDERHANA
-
+- Laravel 6.2
 - Create, Read , Update , Delete Siswa
 - Create, Read , Update , Delete Guru
 - Change Timezone Indonesia
